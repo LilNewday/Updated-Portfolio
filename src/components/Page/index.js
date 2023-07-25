@@ -17,7 +17,7 @@ function Page({ currentPage }) {
       case 'contact':
         return ;
       case 'resume':
-        return ;
+        return <Resume />;
       default:
         return <About />;
     }
