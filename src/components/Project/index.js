@@ -8,7 +8,7 @@ const [imageSrc, setImageSrc] = useState(null);
 useEffect(() => {
     const loadImage = async () => {
     try {
-        const encodedName = encodeURIComponent(name).replace(/_/g, '_');
+        const encodedName = encodeURIComponent(name).replace(/%20/g, '_');
         const imageName = `${encodedName}.png`;
         const { default: img } = await import(`../../assets/images/${imageName}`);
         setImageSrc(img);
