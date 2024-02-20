@@ -6,7 +6,7 @@ function About() {
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-        <img src={self} alt=" My photo" style={{ fontSize: "96px" }} />
+        <img src={self} alt=" Justin Perry selfie" style={{ fontSize: "96px" }} />
         </div>
         <p>
         I am a entry level Full Stack Web Developer with a background in Health Science. 
