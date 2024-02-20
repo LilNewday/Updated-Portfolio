@@ -1,17 +1,34 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { removeHyphensAndCapitalize } from '../../utils/helpers';
 
 function Project({ project }) {
-
 const { name, repo, link, description } = project;
+const [imageSrc, setImageSrc] = useState(null);
+
+useEffect(() => {
+    const loadImage = async () => {
+    try {
+        const encodedName = encodeURIComponent(name).replace(/_/g, '_');
+        const imageName = `${encodedName}.png`;
+        const { default: img } = await import(`../../assets/images/${imageName}`);
+        setImageSrc(img);
+    } catch (error) {
+        console.error(`Error loading image for ${name}:`, error);
+    }
+    };
+
+    loadImage();
+}, [name]);
 
 return (
     <div className="project" key={name}>
-    <img
-        src={require(`../../assets/images/${name}.png`).default}
-        alt={removeHyphensAndCapitalize(name)}
-        className="project-bg"
-    />
+    {imageSrc && (
+        <img
+            src={imageSrc}
+            alt={removeHyphensAndCapitalize(name)}
+            className="project-bg"
+        />
+    )}
     <div className="project-text">
         <h3>
         <a href={link}>{removeHyphensAndCapitalize(name)}</a>{' '}
