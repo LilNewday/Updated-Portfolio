@@ -1,15 +1,29 @@
 {
   "files": {
-    "main.css": "/Updated-Portfolio/static/css/main.14c7546e.css",
-    "main.js": "/Updated-Portfolio/static/js/main.29c11462.js",
+    "main.css": "/Updated-Portfolio/static/css/main.19f7859b.css",
+    "main.js": "/Updated-Portfolio/static/js/main.f21c897d.js",
+    "static/js/588.6ce7aa9e.chunk.js": "/Updated-Portfolio/static/js/588.6ce7aa9e.chunk.js",
+    "static/js/952.2a3093d1.chunk.js": "/Updated-Portfolio/static/js/952.2a3093d1.chunk.js",
+    "static/js/360.1fde4efb.chunk.js": "/Updated-Portfolio/static/js/360.1fde4efb.chunk.js",
+    "static/js/160.af84d9f7.chunk.js": "/Updated-Portfolio/static/js/160.af84d9f7.chunk.js",
+    "static/js/228.d5ec0d8a.chunk.js": "/Updated-Portfolio/static/js/228.d5ec0d8a.chunk.js",
+    "static/js/996.8a3ee81b.chunk.js": "/Updated-Portfolio/static/js/996.8a3ee81b.chunk.js",
+    "static/js/108.e5bde992.chunk.js": "/Updated-Portfolio/static/js/108.e5bde992.chunk.js",
+    "static/media/Horiseon.png": "/Updated-Portfolio/static/media/Horiseon.3ee9727c6571ea07bb1e.png",
     "static/media/self.png": "/Updated-Portfolio/static/media/self.a29b7875cfc3f183dbc8.png",
+    "static/media/The_Recipe_App.png": "/Updated-Portfolio/static/media/The_Recipe_App.f46cc4b382f9234a686f.png",
+    "static/media/The_Prework_Study_guide.png": "/Updated-Portfolio/static/media/The_Prework_Study_guide.884b3324b6ca7fe59fd2.png",
+    "static/media/DevConnect.png": "/Updated-Portfolio/static/media/DevConnect.b6288feefc46c3231160.png",
     "static/media/cover-image.jpg": "/Updated-Portfolio/static/media/cover-image.a08541f16adef03b855b.jpg",
+    "static/media/ghost.jpg": "/Updated-Portfolio/static/media/ghost.379c011a8fa433aaca26.jpg",
+    "static/media/Big_Job_Search.png": "/Updated-Portfolio/static/media/Big_Job_Search.76112bb8a3a5655cd5c0.png",
+    "static/media/Among Us Green screen.png": "/Updated-Portfolio/static/media/Among Us Green screen.0bc4f3505e1020fe8e25.png",
     "index.html": "/Updated-Portfolio/index.html",
-    "main.14c7546e.css.map": "/Updated-Portfolio/static/css/main.14c7546e.css.map",
-    "main.29c11462.js.map": "/Updated-Portfolio/static/js/main.29c11462.js.map"
+    "main.19f7859b.css.map": "/Updated-Portfolio/static/css/main.19f7859b.css.map",
+    "main.f21c897d.js.map": "/Updated-Portfolio/static/js/main.f21c897d.js.map"
   },
   "entrypoints": [
-    "static/css/main.14c7546e.css",
-    "static/js/main.29c11462.js"
+    "static/css/main.19f7859b.css",
+    "static/js/main.f21c897d.js"
   ]
 }
