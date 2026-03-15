@@ -1,6 +1,7 @@
 {
   "name": "updated-portfolio",
   "version": "0.1.0",
+  "homepage": "https://lilnewday.github.io/Updated-Portfolio/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -20,7 +21,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://lilnewday.github.io/Updated-Portfolio/",
   "eslintConfig": {
     "extends": [
       "react-app",
