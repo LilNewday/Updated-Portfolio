@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkupdated_portfolio=globalThis.webpackChunkupdated_portfolio||[]).push([[202],{821(e,o,p){e.exports=p.p+"static/media/DevConnect.b6288feefc46c3231160.png"}}]);

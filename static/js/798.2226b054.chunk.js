@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkupdated_portfolio=globalThis.webpackChunkupdated_portfolio||[]).push([[798],{798(a,o,p){a.exports=p.p+"static/media/Big_Job_Search.76112bb8a3a5655cd5c0.png"}}]);

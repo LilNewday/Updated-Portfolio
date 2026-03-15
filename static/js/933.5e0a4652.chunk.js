@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkupdated_portfolio=globalThis.webpackChunkupdated_portfolio||[]).push([[933],{933(p,e,a){p.exports=a.p+"static/media/The_Recipe_App.f46cc4b382f9234a686f.png"}}]);

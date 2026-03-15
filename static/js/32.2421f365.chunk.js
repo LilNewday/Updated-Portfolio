@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkupdated_portfolio=globalThis.webpackChunkupdated_portfolio||[]).push([[32],{32(e,o,p){e.exports=p.p+"static/media/The_Prework_Study_guide.884b3324b6ca7fe59fd2.png"}}]);

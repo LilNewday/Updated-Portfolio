@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkupdated_portfolio=globalThis.webpackChunkupdated_portfolio||[]).push([[364],{364(e,o,p){e.exports=p.p+"static/media/Among Us Green screen.0bc4f3505e1020fe8e25.png"}}]);
