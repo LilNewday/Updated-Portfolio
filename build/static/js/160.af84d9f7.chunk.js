@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkupdated_portfolio=self.webpackChunkupdated_portfolio||[]).push([[160],{160:(e,p,o)=>{e.exports=o.p+"static/media/Horiseon.3ee9727c6571ea07bb1e.png"}}]);

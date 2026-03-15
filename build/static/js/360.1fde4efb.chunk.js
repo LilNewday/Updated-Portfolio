@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkupdated_portfolio=self.webpackChunkupdated_portfolio||[]).push([[360],{740:(e,p,t)=>{e.exports=t.p+"static/media/DevConnect.b6288feefc46c3231160.png"}}]);

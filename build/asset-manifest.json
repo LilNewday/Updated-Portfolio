@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Updated-Portfolio/static/css/main.19f7859b.css",
-    "main.js": "/Updated-Portfolio/static/js/main.f21c897d.js",
-    "static/js/588.6ce7aa9e.chunk.js": "/Updated-Portfolio/static/js/588.6ce7aa9e.chunk.js",
-    "static/js/952.2a3093d1.chunk.js": "/Updated-Portfolio/static/js/952.2a3093d1.chunk.js",
-    "static/js/360.1fde4efb.chunk.js": "/Updated-Portfolio/static/js/360.1fde4efb.chunk.js",
-    "static/js/160.af84d9f7.chunk.js": "/Updated-Portfolio/static/js/160.af84d9f7.chunk.js",
-    "static/js/228.d5ec0d8a.chunk.js": "/Updated-Portfolio/static/js/228.d5ec0d8a.chunk.js",
-    "static/js/996.8a3ee81b.chunk.js": "/Updated-Portfolio/static/js/996.8a3ee81b.chunk.js",
-    "static/js/108.e5bde992.chunk.js": "/Updated-Portfolio/static/js/108.e5bde992.chunk.js",
+    "main.js": "/Updated-Portfolio/static/js/main.46cb3e7b.js",
+    "static/js/364.dd0155e4.chunk.js": "/Updated-Portfolio/static/js/364.dd0155e4.chunk.js",
+    "static/js/798.2226b054.chunk.js": "/Updated-Portfolio/static/js/798.2226b054.chunk.js",
+    "static/js/202.24900523.chunk.js": "/Updated-Portfolio/static/js/202.24900523.chunk.js",
+    "static/js/464.8894410c.chunk.js": "/Updated-Portfolio/static/js/464.8894410c.chunk.js",
+    "static/js/32.2421f365.chunk.js": "/Updated-Portfolio/static/js/32.2421f365.chunk.js",
+    "static/js/933.5e0a4652.chunk.js": "/Updated-Portfolio/static/js/933.5e0a4652.chunk.js",
+    "static/js/346.567a90b1.chunk.js": "/Updated-Portfolio/static/js/346.567a90b1.chunk.js",
     "static/media/Horiseon.png": "/Updated-Portfolio/static/media/Horiseon.3ee9727c6571ea07bb1e.png",
     "static/media/self.png": "/Updated-Portfolio/static/media/self.a29b7875cfc3f183dbc8.png",
     "static/media/The_Recipe_App.png": "/Updated-Portfolio/static/media/The_Recipe_App.f46cc4b382f9234a686f.png",
@@ -20,10 +20,10 @@
     "static/media/Among Us Green screen.png": "/Updated-Portfolio/static/media/Among Us Green screen.0bc4f3505e1020fe8e25.png",
     "index.html": "/Updated-Portfolio/index.html",
     "main.19f7859b.css.map": "/Updated-Portfolio/static/css/main.19f7859b.css.map",
-    "main.f21c897d.js.map": "/Updated-Portfolio/static/js/main.f21c897d.js.map"
+    "main.46cb3e7b.js.map": "/Updated-Portfolio/static/js/main.46cb3e7b.js.map"
   },
   "entrypoints": [
     "static/css/main.19f7859b.css",
-    "static/js/main.f21c897d.js"
+    "static/js/main.46cb3e7b.js"
   ]
 }
